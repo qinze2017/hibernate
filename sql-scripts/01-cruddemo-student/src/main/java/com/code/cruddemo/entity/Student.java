@@ -28,6 +28,10 @@ public class Student {
         this.email = email;
     }
 
+    public Student(){
+
+    }
+
     // Define getters/setters
 
     public int getId() {
